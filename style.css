@@ -1,0 +1,6 @@
+#box {
+    width: 400px;
+    height: 300px;
+    background-color: rgb(12, 130, 170);
+    position: relative;
+}
